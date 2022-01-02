@@ -5,18 +5,5 @@
 
 Este proyecto se trata de un curso de react utilizando TypeScript impartido en [Udemy](https://www.udemy.com/course/react-pro/)
 
-Los puntos de este curso son:
-* Progresar como desarrolladores en React
-* TypeScript
-* PWAs manuales y con Workbox
-* Storybook
-* TSDX, Storybook y despliegues manuales a NPM
-* Github Actions
-* Versionamiento Semántico
-* Patrones de creación de componentes
-* Formik
-* Formularios dinámicos
-* Lazyload
-* Módulos
-* Re-utilización de componentes
+Rama para crear un patron donde pasar el classname y style
 
